@@ -1,0 +1,92 @@
+.vakje1 {
+    background-color: #CC0 ;
+	width: 320px;
+	padding: 25px;
+	margin: 10px;
+	float: left;
+	height: 240px;
+}
+
+.vakje2 {
+	background-color: #009 ;
+	width: 320px;
+	padding: 25px;
+	margin: 10px;
+	float: left;
+	height: 240px;
+}
+
+.vakje3 {
+    background-color: #090  ;
+	width: 320px;
+	padding: 25px;
+	margin: 10px;
+	float: left;
+	height: 240px;
+}
+
+.vakje4 {
+    background-color: #C00 ;
+	width: 320px;
+	padding: 25px;
+	margin: 10px;
+	float: left;
+	height: 240px;
+}
+
+h2{
+
+	color: white;
+}
+
+h1{
+
+	color: yellow;
+}
+
+input#effectsOn{
+margin : 50px 400px;
+padding: 15px 0px;
+width: 41%;
+cursor: pointer;
+border: 1px solid #2493FF;
+overflow: visible;
+display: inline-block;
+color: #fff;
+font: bold 1.4em arial, helvetica;
+text-shadow: 0 -1px 0 rgba(0,0,0,.4);
+background-color: #2493ff;
+background-image: linear-gradient(top, rgba(255,255,255,.5), rgba(255,255,255,0));
+transition: background-color .2s ease-out;
+border-radius: 3px;
+box-shadow: 0 2px 1px rgba(0, 0, 0, .3),
+ 0 1px 0 rgba(255, 255, 255, .5) inset;
+
+}
+
+*{
+
+margin: 0 auto;
+padding: 0 auto;
+text-align: center;
+
+
+}
+
+#wrapper{
+	width: 980px;
+
+	margin: 10px 580px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+
+
+
+}
+
+
+
+body{
+	background-color: brown;
+}
